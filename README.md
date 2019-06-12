@@ -1,6 +1,5 @@
-## This repo is looking for maintainers! Please reach out if interested.
-
---------
+##
+In addition to the code created by Meter Foundation, this code base contains code from various open source projects. It is currently provided for limited demonstration and testing only. The license term will be updated after the final review at the time of the official release.
 
 
 High performance Stratum poolserver in Node.js. One instance of this software can startup and manage multiple coin
