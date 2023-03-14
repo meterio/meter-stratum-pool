@@ -1,38 +1,38 @@
 {
-    "name": "meter-stratum-pool",
-    "version": "0.1.2",
-    "description": "High performance Stratum poolserver in Node.js",
-    "keywords": [
-        "stratum",
-        "mining",
-        "pool",
-        "server",
-        "poolserver",
-        "meter",
-        "scrypt"
-    ],
-    "homepage": "https://github.com/dfinlab/meter-stratum-pool",
-    "bugs": {
-        "url": "https://github.com/dfinlab/meter-stratum-pool/issues"
-    },
-    "license": "GPL-2.0",
-    "author": "Matthew Little",
-    "contributors": [
-        "vekexasia",
-        "TheSeven"
-    ],
-    "main": "lib/index.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/dfinlab/meter-stratum-pool.git"
-    },
-    "dependencies": {
-        "async": "*",
-        "base58-native": "*",
-        "bignum": "0.13.0",
-        "multi-hashing": "https://github.com/zone117x/node-multi-hashing.git"
-    },
-    "engines": {
-        "node": ">=0.10"
-    }
+  "name": "meter-stratum-pool",
+  "version": "0.2.4",
+  "description": "High performance Stratum poolserver in Node.js",
+  "keywords": [
+    "stratum",
+    "mining",
+    "pool",
+    "server",
+    "poolserver",
+    "meter",
+    "scrypt"
+  ],
+  "homepage": "https://github.com/dfinlab/meter-stratum-pool",
+  "bugs": {
+    "url": "https://github.com/dfinlab/meter-stratum-pool/issues"
+  },
+  "license": "GPL-2.0",
+  "author": "Matthew Little",
+  "contributors": [
+    "vekexasia",
+    "TheSeven"
+  ],
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfinlab/meter-stratum-pool.git"
+  },
+  "dependencies": {
+    "async": "^3.2.4",
+    "bignumber.js": "^9.1.1",
+    "bs58": "^5.0.0",
+    "multi-hashing": "https://github.com/zone117x/node-multi-hashing.git"
+  },
+  "engines": {
+    "node": ">=16.0"
+  }
 }
