@@ -1,6 +1,6 @@
 {
   "name": "meter-stratum-pool",
-  "version": "0.2.10",
+  "version": "0.2.16",
   "description": "High performance Stratum poolserver in Node.js",
   "keywords": [
     "stratum",
@@ -27,8 +27,8 @@
     "url": "https://github.com/dfinlab/meter-stratum-pool.git"
   },
   "dependencies": {
-    "async": "^3.2.4",
-    "bignumber.js": "^9.1.1",
+    "async": "*",
+    "bignumber.js": "^8.1.1",
     "bs58": "^5.0.0",
     "multi-hashing": "https://github.com/zone117x/node-multi-hashing.git"
   },
